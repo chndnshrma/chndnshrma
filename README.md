@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <code>full_stack</code> &bull; <code>spring_boot</code> &bull; <code>postgresql</code> &bull; <code>system_design</code>
+  <code>main.java</code> &bull; <code>spring_boot</code> &bull; <code>postgresql</code> &bull; <code>system_design</code>
 </p>
 
 <p align="center">
